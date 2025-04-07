@@ -9,7 +9,7 @@ However, I'm open to work on any project related to data analysis.
 
 
 
-🔧 Technical Skills
+💻 Technical Skills
 
 ✅ Data Analysis & Visualization: Python (Pandas, NumPy, Seaborn, Matplotlib) · SQL · Power BI · Google Sheets
 ✅ Databases: SQL Server
