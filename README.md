@@ -17,7 +17,7 @@ Introductory Machine Learning: Scikit-Learn
 Version Control & Collaboration: Git · GitHub · GitBash
 
 
-I’m currently contributing to a collaborative project on GitHub, applying predictive modeling techniques and cloud-based tools to extract insights and support data-driven decision-making.
+I’m currently contributing to a collaborative project on GitHub, applying predictive modeling techniques like Random Forest.
 
 🏆 Core Competencies & Soft Skills
 Strong analytical thinking with a focus on results
