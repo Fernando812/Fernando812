@@ -11,20 +11,20 @@ However, I'm open to work on any project related to data analysis.
 
 🔧 Technical Skills
 
-- Data Analysis & Visualization: Python (Pandas, NumPy, Seaborn, Matplotlib) · SQL · Power BI · Google Sheets
-- Databases: SQL Server
-- Introductory Machine Learning: Scikit-Learn
-- Version Control & Collaboration: Git · GitHub · GitBash
-- I’m currently contributing to a collaborative project on GitHub, applying predictive modeling techniques like Random Forest.
+✅ Data Analysis & Visualization: Python (Pandas, NumPy, Seaborn, Matplotlib) · SQL · Power BI · Google Sheets
+✅ Databases: SQL Server
+✅ Introductory Machine Learning: Scikit-Learn
+✅ Version Control & Collaboration: Git · GitHub · GitBash
+✅ I recently have finished a contribution to a collaborative project on GitHub, applying predictive modeling techniques like Random Forest.
 
 
 
-🏆 Core Competencies & Soft Skills
+🌟  Core Competencies & Soft Skills
 
-- Strong analytical thinking with a focus on results
-- Self-motivation and consistency
-- Passion for improving processes and driving efficiency
-- Committed to long-term goals and continuous growth
+✅ Strong analytical thinking with a focus on results
+✅ Self-motivation and consistency
+✅ Passion for improving processes and driving efficiency
+✅ Committed to long-term goals and continuous growth
 
 I thrive in well-organized environments where I can bring order to complex systems, streamline operations, and transform raw data into meaningful, actionable strategies.
 
