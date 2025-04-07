@@ -13,26 +13,18 @@ However, I'm open to work on any project related to data analysis.
 
 - Data Analysis & Visualization: Python (Pandas, NumPy, Seaborn, Matplotlib) · SQL · Power BI · Google Sheets
 - Databases: SQL Server
-
-Introductory Machine Learning: Scikit-Learn
-
-Version Control & Collaboration: Git · GitHub · GitBash
-
-
-I’m currently contributing to a collaborative project on GitHub, applying predictive modeling techniques like Random Forest.
-
+- Introductory Machine Learning: Scikit-Learn
+- Version Control & Collaboration: Git · GitHub · GitBash
+- I’m currently contributing to a collaborative project on GitHub, applying predictive modeling techniques like Random Forest.
 
 
 
 🏆 Core Competencies & Soft Skills
 
-Strong analytical thinking with a focus on results
-
-Proven leadership and team coordination (3+ years managing physiotherapy teams)
-
-High levels of resilience, self-motivation, and consistency
-
-Passion for improving processes and driving efficiency
+- Strong analytical thinking with a focus on results
+- Proven leadership and team coordination (3+ years managing physiotherapy teams)
+- Self-motivation, and consistency
+- Passion for improving processes and driving efficiency
 
 Committed to long-term goals and continuous growth
 
