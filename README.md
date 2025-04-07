@@ -16,7 +16,7 @@ However, I'm open to work on any project related to data analysis.
 ✅ Introductory Machine Learning: Scikit-Learn
 ✅ Version Control & Collaboration: Git · GitHub · GitBash
 
-I recently have finished a contribution to a collaborative project on GitHub, applying predictive modeling techniques like Random Forest.
+🤝 I recently have finished a contribution to a collaborative project on GitHub, applying predictive modeling techniques like Random Forest.
 
 
 
