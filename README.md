@@ -7,26 +7,30 @@ working in companies and consulting firms dedicated to water treatment and envir
 My intention is to use my background habilities and merge them with my skills as a Data analyst.
 However, I'm open to work on any project related to data analysis.
 
+🔧 Technical Skills
+Data Analysis & Visualization: Python (Pandas, NumPy, Seaborn, Matplotlib) · SQL · Power BI · Google Sheets
+
+Databases: SQL Server
+
+Introductory Machine Learning: Scikit-Learn
+
+Version Control & Collaboration: Git · GitHub · GitBash
 
 
+I’m currently contributing to a collaborative project on GitHub, applying predictive modeling techniques and cloud-based tools to extract insights and support data-driven decision-making.
 
---------------
---------------
-My main skills are:
+🏆 Core Competencies & Soft Skills
+Strong analytical thinking with a focus on results
 
-- SQL
+Proven leadership and team coordination (3+ years managing physiotherapy teams)
 
-- Power BI
+High levels of resilience, self-motivation, and consistency
 
-- Tableau
+Passion for improving processes and driving efficiency
 
-- Python
+Committed to long-term goals and continuous growth
 
-- Excel
-
-- Google SpreadSheets 
-
-
+I thrive in well-organized environments where I can bring order to complex systems, streamline operations, and transform raw data into meaningful, actionable strategies.
 
 
 
