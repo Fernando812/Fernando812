@@ -22,7 +22,7 @@ However, I'm open to work on any project related to data analysis.
 🏆 Core Competencies & Soft Skills
 
 - Strong analytical thinking with a focus on results
-- Self-motivation, and consistency
+- Self-motivation and consistency
 - Passion for improving processes and driving efficiency
 - Committed to long-term goals and continuous growth
 
