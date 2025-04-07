@@ -22,7 +22,6 @@ However, I'm open to work on any project related to data analysis.
 🏆 Core Competencies & Soft Skills
 
 - Strong analytical thinking with a focus on results
-- Proven leadership and team coordination (3+ years managing physiotherapy teams)
 - Self-motivation, and consistency
 - Passion for improving processes and driving efficiency
 
