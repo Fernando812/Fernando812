@@ -7,7 +7,9 @@ working in companies and consulting firms dedicated to water treatment and envir
 My intention is to use my background habilities and merge them with my skills as a Data analyst.
 However, I'm open to work on any project related to data analysis.
 
+
 🔧 Technical Skills
+
 Data Analysis & Visualization: Python (Pandas, NumPy, Seaborn, Matplotlib) · SQL · Power BI · Google Sheets
 
 Databases: SQL Server
@@ -18,6 +20,7 @@ Version Control & Collaboration: Git · GitHub · GitBash
 
 
 I’m currently contributing to a collaborative project on GitHub, applying predictive modeling techniques like Random Forest.
+
 
 🏆 Core Competencies & Soft Skills
 
