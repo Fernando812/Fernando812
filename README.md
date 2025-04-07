@@ -20,6 +20,7 @@ Version Control & Collaboration: Git · GitHub · GitBash
 I’m currently contributing to a collaborative project on GitHub, applying predictive modeling techniques like Random Forest.
 
 🏆 Core Competencies & Soft Skills
+
 Strong analytical thinking with a focus on results
 
 Proven leadership and team coordination (3+ years managing physiotherapy teams)
