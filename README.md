@@ -37,6 +37,7 @@ However, I'm open to work on any project related to data analysis.
 
 ✅ Committed to long-term goals and continuous growth
 
+
 🧠📊🛠️ I thrive in well-organized environments where I can bring order to complex systems, streamline operations, and transform raw data into meaningful, actionable strategies.
 
 
