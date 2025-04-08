@@ -9,7 +9,7 @@ However, I'm open to work on any project related to data analysis.
 
 
 
-💻 ### Technical Skills:
+#### 💻 Technical Skills:
 
 ✅ Data Analysis & Visualization: Python (Pandas, NumPy, Seaborn, Matplotlib) 
 
@@ -27,7 +27,7 @@ However, I'm open to work on any project related to data analysis.
 
 
 
-🌟  ### Core Competencies & Soft Skills:
+#### 🌟 Core Competencies & Soft Skills:
 
 ✅ Strong analytical thinking with a focus on results
 
