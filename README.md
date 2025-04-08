@@ -12,10 +12,15 @@ However, I'm open to work on any project related to data analysis.
 💻 Technical Skills
 
 ✅ Data Analysis & Visualization: Python (Pandas, NumPy, Seaborn, Matplotlib) 
+
 ✅ Power BI 
+
 ✅ Google Sheets
+
 ✅ Databases: SQL Server
+
 ✅ Introductory Machine Learning: Scikit-Learn
+
 ✅ Version Control & Collaboration: Git · GitHub · GitBash
 
 🤝 I recently have finished a contribution to a collaborative project on GitHub, applying predictive modeling techniques like Random Forest.
