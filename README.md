@@ -6,6 +6,7 @@ I’m a Data Analyst and I also have an Environmental Sciences Degree and almost
 working in companies and consulting firms dedicated to water treatment and environmental sanitation. 
 My intention is to use my background habilities and merge them with my skills as a Data analyst.
 However, I'm open to work on any project related to data analysis.
+
 -------------
 -------------
 #### 💻 Technical Skills:
