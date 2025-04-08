@@ -24,10 +24,11 @@ However, I'm open to work on any project related to data analysis.
 ✅ Introductory Machine Learning: Scikit-Learn
 
 ✅ Version Control & Collaboration: Git · GitHub · GitBash
-
+-------------
+-------------
 🤝 I recently have finished a contribution to a collaborative project on GitHub, applying predictive modeling techniques like Random Forest.
-
-
+-------------
+-------------
 
 #### 🌟 Core Competencies & Soft Skills:
 
@@ -38,8 +39,8 @@ However, I'm open to work on any project related to data analysis.
 ✅ Passion for improving processes and driving efficiency
 
 ✅ Committed to long-term goals and continuous growth
-
-
+-------------
+-------------
 
 🧠📊🛠️ I thrive in well-organized environments where I can bring order to complex systems, streamline operations, and transform raw data into meaningful, actionable strategies.
 
