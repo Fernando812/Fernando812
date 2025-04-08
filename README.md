@@ -17,9 +17,9 @@ However, I'm open to work on any project related to data analysis.
 
 ✅ Power BI 
 
-✅ Google Sheets
-
 ✅ SQL
+
+✅ Google Sheets
 
 ✅ Introductory Machine Learning: Scikit-Learn
 
