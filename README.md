@@ -46,8 +46,8 @@ However, I'm open to work on any project related to data analysis.
 -------------
 
 #### 🧠📊🛠️ I thrive in well-organized environments where I can bring order to complex systems, streamline operations, and transform raw data into meaningful, actionable strategies.
-
-
+-------------
+-------------
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left" style="display: flex; gap: 10px; align-items: center;"> 
